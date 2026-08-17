@@ -1,0 +1,3 @@
+Meter ID: 23456767, Amount: $420.0, Date: 2023-12-26 01:07:36, Status: Paid
+Meter ID: 23456767, Amount: $420.0, Date: 2023-12-26 01:12:37, Status: Paid
+Meter ID: 23456767, Amount: $420.0, Date: 2023-12-26 01:43:27, Status: Paid
